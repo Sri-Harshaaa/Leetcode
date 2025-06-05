@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0078-subsets) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3639-zero-array-transformation-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3643-zero-array-transformation-ii) |
@@ -81,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
