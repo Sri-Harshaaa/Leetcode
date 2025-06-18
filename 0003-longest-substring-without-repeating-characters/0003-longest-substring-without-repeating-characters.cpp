@@ -8,8 +8,8 @@ public:
         while(r<n) {
             if(mpp.find(s[r])==mpp.end()) {
                 mpp[s[r]]=r;
-                temp++;
                 r++;
+                ans=max(ans,r-l);
             }
             else {
                 ans= max(ans,temp);
@@ -21,6 +21,6 @@ public:
                 }
             }
         }
-        return max(ans,temp);
+        return ans;
     }
 };
