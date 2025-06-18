@@ -12,9 +12,8 @@ public:
                 ans=max(ans,r-l);
             }
             else {
-                ans= max(ans,temp);
+                ans= max(ans,r-l);
                 int x = mpp[s[r]]+1;
-                temp-=(x-l);
                 while(l!=x) {
                     mpp.erase(s[l]);
                     l++;
