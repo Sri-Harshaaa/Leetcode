@@ -21,9 +21,6 @@ public:
     }
 
     vector<vector<string>> solveNQueens(int n) {
-        if(n==1) return {{"Q"}};
-        else if(n==2) return {};
-        else {
             vector<vector<string>> ans;
             vector<string> board(n,string(n,'.'));
             vector<int> col(n,0),d1(2*n-1,0),d2(2*n-1,0);
@@ -33,6 +30,5 @@ public:
             pos.push_back(d2);
             solve(0,n,pos,board,ans);
             return ans;
-        }
     }
 };
