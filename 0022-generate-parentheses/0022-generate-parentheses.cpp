@@ -2,15 +2,13 @@ class Solution {
 public:
     void generate(int n,string s,vector<string>& ans) {
         if(s.size()==2*n) {
-            stack<char> st;
+            int cnt=0;
             for(int i=0; i<2*n; i++) {
-                if(s[i]=='(') st.push('(');
-                else {
-                    if(!st.empty() && st.top()=='(') st.pop();
-                    else st.push(')');
-                }
+                if(s[i]=='(') cnt++;
+                else cnt--;
+                if(cnt<0) return;
             }
-            if(st.empty()) ans.push_back(s);
+            if(cnt==0) ans.push_back(s);
             return;
         }
 
