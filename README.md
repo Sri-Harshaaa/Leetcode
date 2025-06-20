@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0022-generate-parentheses) |
 | [1013-fibonacci-number](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0125-valid-palindrome) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Greedy
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0078-subsets) |
