@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0009-palindrome-number) |
 | [1013-fibonacci-number](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1013-fibonacci-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Linked List
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Array
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-zero-array-transformation-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3651-transformed-array](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3651-transformed-array) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Simulation
 |  |
 | ------- |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Backtracking
 |  |
 | ------- |
@@ -117,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Number Theory
+|  |
+| ------- |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 <!---LeetCode Topics End-->
