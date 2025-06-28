@@ -9,6 +9,11 @@ public:
             if(nums[low]==nums[mid] && nums[mid]==nums[high]) {
                 high--;
                 low++;
+                continue;
+            }
+            if(nums[low]<nums[high]) {
+                if(nums[mid]>target) high = mid-1;
+                else low = mid+1;
             }
             else if(nums[low]<=nums[mid]) {
                 if(target>=nums[low] && target<=nums[mid]) high = mid-1;
