@@ -6,19 +6,23 @@ public:
         while(low <= high) {
             mid = low + (high-low)/2;
             if(nums[mid]==target) return mid;
-            if(nums[low]<nums[high]) {
+            //this one works when low and high step into the sorted half
+            if(nums[low]<=nums[high]) {
                 if(nums[mid]>target) high = mid-1;
                 else low = mid+1;
             }
+            //these work until the low and high step in the sorted half
             else if(nums[low]<=nums[mid]) {
-                if(target>=nums[low] && target<=nums[mid]) high = mid-1;
+                if(target>=nums[low] && target<nums[mid]) high = mid-1;
                 else low = mid+1;
             }
             else {
-                if(target>=nums[mid] && target<=nums[high]) low = mid+1;
+                if(target>nums[mid] && target<=nums[high]) low = mid+1;
                 else high = mid-1;
             }
         }
         return -1;
     }
 };
+
+//notice the <=  >= and < >
