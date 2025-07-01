@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0125-valid-palindrome) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [3617-find-the-original-typed-string-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3893-generate-tag-for-video-caption](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3893-generate-tag-for-video-caption) |
 ## Greedy
 |  |
