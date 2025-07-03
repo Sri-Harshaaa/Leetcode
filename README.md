@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0009-palindrome-number) |
 | [1013-fibonacci-number](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1013-fibonacci-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1013-fibonacci-number) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3651-transformed-array](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3651-transformed-array) |
 | [3893-generate-tag-for-video-caption](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3893-generate-tag-for-video-caption) |
 ## Prefix Sum
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0090-subsets-ii) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Sliding Window
 |  |
 | ------- |
