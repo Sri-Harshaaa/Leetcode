@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Recursion
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3639-zero-array-transformation-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3643-zero-array-transformation-ii) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1448-maximum-69-number](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1448-maximum-69-number) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Counting
 |  |
 | ------- |
@@ -157,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+## Sorting
+|  |
+| ------- |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 <!---LeetCode Topics End-->
