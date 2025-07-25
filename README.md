@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3396-valid-word](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3396-valid-word) |
