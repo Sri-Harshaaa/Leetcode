@@ -1,25 +1,22 @@
 class Solution {
 public:
-    void solve(int i,vector<int>& nums,vector<int>& temp,map<int,int>& mpp) {
-        int n = nums.size();
-        if(i==n) {
-            int ans = 0;
-            for(int i=0; i<temp.size(); i++) ans|=temp[i];
-            mpp[ans]++;
+    int ans = 0,max_or = 0;
+
+    void solve(int i,int temp,vector<int>& nums) {
+        if(i==nums.size()) {
+            if(temp==max_or) ans++;
             return;
         }
-        temp.push_back(nums[i]);
-        solve(i+1,nums,temp,mpp);
+        
+        solve(i+1,temp | nums[i],nums);
 
-        temp.pop_back();
-        solve(i+1,nums,temp,mpp);
+        solve(i+1,temp,nums);
     }
 
     int countMaxOrSubsets(vector<int>& nums) {
-        int n = nums.size();
-        vector<int> temp;
-        map<int,int> mpp;
-        solve(0,nums,temp,mpp);
-        return mpp.rbegin()->second;
+        int n = nums.size(),temp = 0;
+        for(int i=0; i<n; i++) max_or|=nums[i];
+        solve(0,temp,nums);
+        return ans;
     }
 };
