@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0022-generate-parentheses) |
+| [0118-pascals-triangle](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0118-pascals-triangle) |
 | [1013-fibonacci-number](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1013-fibonacci-number) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Memoization
