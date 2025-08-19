@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1448-maximum-69-number) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2529-range-product-queries-of-powers](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2689-rearranging-fruits](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2689-rearranging-fruits) |
