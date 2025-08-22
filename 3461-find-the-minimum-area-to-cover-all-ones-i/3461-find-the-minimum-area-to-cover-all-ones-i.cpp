@@ -12,6 +12,6 @@ public:
                 }
             }
         }
-        return max(0,(l2-l1+1)*(w2-w1+1));
+        return (l2-l1+1)*(w2-w1+1);
     }
 };
