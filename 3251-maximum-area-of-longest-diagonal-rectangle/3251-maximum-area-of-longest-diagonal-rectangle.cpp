@@ -3,8 +3,7 @@ public:
     int areaOfMaxDiagonal(vector<vector<int>>& dimensions) {
         int area = 0,diag = INT_MIN;
         for(int i=0; i<dimensions.size(); i++) {
-            int temp = dimensions[i][0]*dimensions[i][0]+ dimensions[i][1]*dimensions[i][1];\
-            cout<<temp;
+            int temp = dimensions[i][0]*dimensions[i][0]+ dimensions[i][1]*dimensions[i][1];
             if(temp > diag) {
                 diag = temp;
                 area = dimensions[i][0]*dimensions[i][1];
