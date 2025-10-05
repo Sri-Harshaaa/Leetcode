@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1448-maximum-69-number) |
+| [1642-water-bottles](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1642-water-bottles) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0498-diagonal-traverse) |
+| [1642-water-bottles](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1642-water-bottles) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3651-transformed-array](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3651-transformed-array) |
