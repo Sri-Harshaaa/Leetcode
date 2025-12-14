@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2689-rearranging-fruits](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2689-rearranging-fruits) |
+| [3606-coupon-code-validator](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Array
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3606-coupon-code-validator](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3639-zero-array-transformation-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3396-valid-word](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3396-valid-word) |
+| [3606-coupon-code-validator](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3617-find-the-original-typed-string-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3800-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3800-longest-common-prefix-between-adjacent-strings-after-removals) |
 | [3893-generate-tag-for-video-caption](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3893-generate-tag-for-video-caption) |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2689-rearranging-fruits) |
+| [3606-coupon-code-validator](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3606-coupon-code-validator) |
 ## Enumeration
 |  |
 | ------- |
