@@ -1,19 +1,16 @@
 class Solution {
 public:
-    void topoSort(vector<vector<int>>& adj,int& courses,vector<int>& inDeg) {
-        queue<int> q;
-        for(int i=0; i<inDeg.size(); i++) {
-            if(inDeg[i]==0) q.push(i);
-        }
-        while(!q.empty()) {
-            int top = q.front();
-            q.pop();
-            courses++;
-            for(int &v : adj[top]) {
-                inDeg[v]--;
-                if(inDeg[v]==0) q.push(v);
+    bool isCycle(vector<vector<int>>& adj,int& u,vector<bool>& visited, vector<bool>& recStack) {
+        visited[u] = true;
+        recStack[u] = true;
+        for(int &v : adj[u]) {
+            if(visited[v] && recStack[v]) return true;
+            else if(!visited[v]) {
+                if(isCycle(adj,v,visited,recStack)) return true;
             }
         }
+        recStack[u] = false;
+        return false;
     }
 
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
@@ -21,15 +18,10 @@ public:
         for(auto &p : prerequisites) {
             adj[p[1]].push_back(p[0]);
         }
-        int courses = 0;
-        vector<int> inDeg(numCourses);
-        for(auto &neighbr : adj) {
-            for(int &v : neighbr) {
-                inDeg[v]++;
-            }
+        vector<bool> visited(numCourses), recStack(numCourses);
+        for(int i=0; i<numCourses; i++) {
+            if(!visited[i] && isCycle(adj,i,visited,recStack)) return false;
         }
-        topoSort(adj,courses,inDeg);
-        if(courses == numCourses) return true;
-        else return false;
+        return true;
     }
 };
