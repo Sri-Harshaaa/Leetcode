@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0792-binary-search](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0792-binary-search) |
 | [0940-fruit-into-baskets](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0792-binary-search](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0792-binary-search) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3643-zero-array-transformation-ii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0498-diagonal-traverse) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Depth-First Search
