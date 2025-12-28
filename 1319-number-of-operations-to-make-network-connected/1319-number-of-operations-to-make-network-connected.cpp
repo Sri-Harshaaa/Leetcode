@@ -18,13 +18,6 @@ public:
         return parent[i] = find(parent[i],parent);
     }
 
-    void DFS(vector<vector<int>>& adj,int u,vector<bool>& visited) {
-        visited[u] = true;
-        for(int &v : adj[u]) {
-            if(!visited[v]) DFS(adj,v,visited);
-        }
-    }
-
     int makeConnected(int n, vector<vector<int>>& connections) {
         int E = connections.size();
         vector<int> parent(n), rank(n,0);
@@ -39,21 +32,9 @@ public:
             else Union(connections[i][0],connections[i][1],parent,rank);
         }
 
-        vector<vector<int>> adj(n);
-        for(int i=0; i<E; i++) {
-            int u = connections[i][0];
-            int v = connections[i][1];
-            adj[u].push_back(v);
-            adj[v].push_back(u);
-        }
-
-        vector<bool> visited(n,false);
         int comp = 0;
         for(int i=0; i<n; i++) {
-            if(!visited[i]) {
-                comp++;
-                DFS(adj,i,visited);
-            }
+            if(parent[i] == i) comp++;
         }
 
         if(spare < comp-1) return -1;
