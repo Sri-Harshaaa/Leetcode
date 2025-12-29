@@ -28,18 +28,15 @@ public:
             Union(edges[i][0],edges[i][1],parent,rank);
         }
 
-        unordered_map<int,int> mpp;
-        int comp = 0;
+        vector<int> comp(n,0);
         for(int i=0; i<n; i++) {
-            find(i,parent);
-            mpp[parent[i]]++;
-            if(parent[i]==i) comp++;
+            int x = find(i,parent);
+            comp[x]++;
         }
-        if(comp == 1) return 0;
         long long pre_sum = 0, ans = 0;
-        for(auto &p : mpp) {
-            ans+=p.second*pre_sum;
-            pre_sum+=p.second;
+        for(int &v : comp) {
+            ans+=v*pre_sum;
+            pre_sum+=v;
         }
         return ans;
     }
