@@ -33,7 +33,7 @@ public:
         int n = grid.size(), m = grid[0].size(),cnt = 0;
         for(int i=0; i<=n-3; i++) {
             for(int j=0; j<=m-3; j++) {
-                if(isValid(i,j,grid) && checkSum(i,j,grid)) cnt++;
+                if(grid[i+1][j+1]==5 && isValid(i,j,grid) && checkSum(i,j,grid)) cnt++;
             }
         }
         return cnt;
