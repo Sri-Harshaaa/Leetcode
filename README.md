@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0792-binary-search) |
 | [0840-magic-squares-in-grid](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0940-fruit-into-baskets](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
