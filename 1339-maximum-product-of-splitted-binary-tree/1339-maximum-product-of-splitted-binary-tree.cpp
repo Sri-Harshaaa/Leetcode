@@ -18,23 +18,26 @@ public:
         if(node == NULL) return 0;
         int left = tot_sum(node -> left);
         int right = tot_sum(node -> right);
-        int sum = node -> val + left + right;
-        return sum;
-    }
+        int curr_sum = node -> val + left + right;
 
-    int find(TreeNode* node) {
-        if(node == NULL) return 0;
-        int left = find(node -> left);
-        int right = find(node -> right);
-        int curr_sum = node -> val + left+right;
         long temp = sum - curr_sum;
         maxP = max(maxP, curr_sum*temp);
         return curr_sum;
     }
 
+    // int find(TreeNode* node) {
+    //     if(node == NULL) return 0;
+    //     int left = find(node -> left);
+    //     int right = find(node -> right);
+    //     int curr_sum = node -> val + left+right;
+    //     long temp = sum - curr_sum;
+    //     maxP = max(maxP, curr_sum*temp);
+    //     return curr_sum;
+    // }
+
     int maxProduct(TreeNode* root) {
         sum = tot_sum(root);
-        find(root);
+        tot_sum(root);
         return maxP % 1000000007;
     }
 };
