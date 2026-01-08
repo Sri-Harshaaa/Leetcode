@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0743-network-delay-time) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Breadth-First Search
 |  |
@@ -329,9 +330,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 <!---LeetCode Topics End-->
