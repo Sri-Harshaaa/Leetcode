@@ -48,11 +48,9 @@ public:
             adj2[u].push_back(v);
             adj2[v].push_back(u);
         }
-        float d1 = diameter(adj1)-1;
-        float d2 = diameter(adj2)-1;
+        int d1 = diameter(adj1)-1;
+        int d2 = diameter(adj2)-1;
         
-        int ans = ceil(d1/2)+ceil(d2/2)+1;
-        int max_d = max(d1,d2);
-        return max(max_d, ans);
+        return max({d1,d2,(d1+1)/2+(d2+1)/2 +1 });
     }
 };
