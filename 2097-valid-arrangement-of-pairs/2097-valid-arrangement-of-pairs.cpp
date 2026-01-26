@@ -1,16 +1,5 @@
 class Solution {
 public:
-    void DFS(int u, vector<int>& path, unordered_map<int,vector<int>>& adj) {
-        auto& neighbrs = adj[u];
-
-        while(!neighbrs.empty()) {
-            int v = neighbrs.back();
-            neighbrs.pop_back();
-            DFS(v,path,adj);
-        }
-        path.push_back(u);
-    }
-
     vector<vector<int>> validArrangement(vector<vector<int>>& pairs) {
         unordered_map<int,vector<int>> adj;
         unordered_map<int,int> inDeg, outDeg;
@@ -21,7 +10,7 @@ public:
             inDeg[v]++;
             outDeg[u]++;
         }
-        vector<int> path;
+        
         int start_node = pairs[0][0];
         for(auto& it : adj) {
             int u = it.first;
@@ -30,7 +19,22 @@ public:
                 break;
             }
         }
-        DFS(start_node,path,adj);
+        
+        vector<int> path;
+        stack<int> st;
+        st.push(start_node);
+        while(!st.empty()) {
+            int u = st.top();
+            if(!adj[u].empty()) {
+                int v = adj[u].back();
+                adj[u].pop_back();
+                st.push(v);
+            }
+            else {
+                path.push_back(u);
+                st.pop();
+            }
+        }
         reverse(path.begin(), path.end());
 
         vector<vector<int>> ans;
