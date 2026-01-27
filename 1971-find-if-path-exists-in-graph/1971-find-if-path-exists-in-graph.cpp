@@ -1,18 +1,7 @@
 class Solution {
 public:
-    bool dfs(int u, int des, vector<bool>& visited, vector<vector<int>>& adj) {
-        visited[u] = true;
-        if(u == des) return true;
-
-        for(int& v : adj[u]) {
-            if(!visited[v]) {
-                if(dfs(v,des,visited,adj)) return true;
-            }
-        }
-        return false;
-    }
-    
     bool validPath(int n, vector<vector<int>>& edges, int source, int destination) {
+        if(n==1) return true;
         vector<vector<int>> adj(n);
         vector<bool> visited(n, false);
         for(int i=0; i<edges.size(); i++) {
@@ -21,6 +10,24 @@ public:
             adj[u].push_back(v);
             adj[v].push_back(u);
         }
-        return dfs(source,destination,visited,adj);
+        
+        queue<int> q;
+        q.push(source);
+        visited[source] = true;
+
+        while(!q.empty()) {
+            int node = q.front();
+            q.pop();
+
+            for(int& v : adj[node]) {
+                if(v == destination) return true;
+
+                if(!visited[v]) {
+                    visited[v] = true;
+                    q.push(v);
+                }
+            }
+        }
+        return false;
     }
 };
