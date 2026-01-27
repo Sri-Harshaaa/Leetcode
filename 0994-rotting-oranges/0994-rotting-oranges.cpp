@@ -8,13 +8,13 @@ public:
         int m = grid.size();
         int n = grid[0].size();
 
-        vector<pair<int,int>> rot_orange;
+        queue<pair<pair<int,int>, int>> q;
         int r_oranges = 0, f_oranges = 0;
         for(int i=0; i<m; i++) {
             for(int j=0; j<n; j++) {
                 if(grid[i][j] == 2) {
                     r_oranges++;
-                    rot_orange.push_back({i,j});
+                    q.push({{i,j}, 0});
                 }
                 else if(grid[i][j] == 1) f_oranges++;
             }
@@ -26,11 +26,6 @@ public:
 
         vector<int> dx = {1,-1,0,0};
         vector<int> dy = {0,0,1,-1};
-
-        queue<pair<pair<int,int>, int>> q;
-        for(int i=0; i<rot_orange.size(); i++) {
-            q.push({rot_orange[i],0});
-        }
 
         int min = -1;
         while(!q.empty()) {
@@ -46,16 +41,12 @@ public:
                 int v = y + dy[i];
                 if(isValid(u,v,m,n) && grid[u][v]==1) {
                     q.push({{u,v}, t+1});
+                    f_oranges--;
                     grid[u][v] = 2;
                 }
             }
         }
         
-        for(int i=0; i<m; i++) {
-            for(int j=0; j<n; j++) {
-                if(grid[i][j] == 1) return -1;
-            }
-        }
-        return min;
+        return f_oranges == 0 ? min : -1;
     }
 };
