@@ -332,10 +332,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0743-network-delay-time) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0743-network-delay-time) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Tree
 |  |
 | ------- |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2097-valid-arrangement-of-pairs](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2097-valid-arrangement-of-pairs) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Eulerian Circuit
 |  |
 | ------- |
