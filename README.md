@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3606-coupon-code-validator](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3606-coupon-code-validator) |
+| [3637-trionic-array-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3637-trionic-array-i) |
 | [3639-zero-array-transformation-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
