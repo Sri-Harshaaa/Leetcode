@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3379-transformed-array](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3379-transformed-array) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1642-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [3379-transformed-array](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3379-transformed-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3651-transformed-array](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3651-transformed-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
