@@ -1,27 +1,23 @@
 class Solution {
 public:
-    int dfs(int u, vector<vector<int>>& adj, vector<bool>& visited) {
+    int dfs(int u, vector<int>& adj, vector<bool>& visited) {
         visited[u] = true;
         int cnt = 1;
 
-        for(int &v: adj[u]) {
-            if(!visited[v]) cnt+=dfs(v,adj,visited);
-        }
+        int v = adj[u];
+        if(v != -1 && !visited[v]) cnt+=dfs(v,adj,visited);
+    
         return cnt;
     }
 
     int longestCycle(vector<int>& edges) {
         int n = edges.size();
-        vector<vector<int>> adj(n);
-        for(int i=0; i<n; i++) {
-            if(edges[i] != -1) adj[i].push_back(edges[i]);
-        }
+
         vector<int> inDeg(n,0);
         for(int i=0; i<n; i++) {
-            for(int &v: adj[i]) {
-                inDeg[v]++;
-            }
+            if(edges[i] != -1) inDeg[edges[i]]++;
         }
+
         queue<int> q;
         for(int i=0; i<n; i++) {
             if(inDeg[i] == 0) q.push(i);
@@ -31,7 +27,8 @@ public:
             int node = q.front();
             q.pop();
 
-            for(int &v : adj[node]) {
+            int v = edges[node];
+            if(v != -1) {
                 inDeg[v]--;
                 if(inDeg[v] == 0) q.push(v);
             }
@@ -42,7 +39,7 @@ public:
         int ans = -1;
         for(int i=0; i<n; i++) {
             if(inDeg[i] && !visited[i]) {
-                int x = dfs(i,adj,visited);
+                int x = dfs(i,edges,visited);
                 ans = max(ans,x);
             }
         }
