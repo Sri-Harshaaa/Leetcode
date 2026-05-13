@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2097-valid-arrangement-of-pairs](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2097-valid-arrangement-of-pairs) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2360-longest-cycle-in-a-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2360-longest-cycle-in-a-graph) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3493-properties-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3493-properties-graph) |
 ## Breadth-First Search
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1765-map-of-highest-peak](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1765-map-of-highest-peak) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2360-longest-cycle-in-a-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2360-longest-cycle-in-a-graph) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3493-properties-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3493-properties-graph) |
 ## Union Find
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0210-course-schedule-ii) |
+| [2360-longest-cycle-in-a-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2360-longest-cycle-in-a-graph) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2097-valid-arrangement-of-pairs](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2097-valid-arrangement-of-pairs) |
+| [2360-longest-cycle-in-a-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2360-longest-cycle-in-a-graph) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3493-properties-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3493-properties-graph) |
