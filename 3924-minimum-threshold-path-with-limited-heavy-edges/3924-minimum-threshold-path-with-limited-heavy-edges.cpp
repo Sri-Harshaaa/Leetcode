@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool dijkstra(int src, int des, int threshold, int k, vector<vector<pair<int,int>>> adj) {
+    bool dijkstra(int src, int des, int threshold, int k, vector<vector<pair<int,int>>>& adj) {
         int n = adj.size();
         priority_queue<pair<int,int>, vector<pair<int,int>>, greater<pair<int,int>>> pq;
         vector<int> dist(n, INT_MAX);
@@ -17,8 +17,7 @@ public:
             for(auto &neighbr: adj[u]) {
                 int v = neighbr.first;
                 int w = neighbr.second;
-                neighbr.second = (w > threshold) ? 1 : 0;
-                w = neighbr.second;
+                w = (w > threshold) ? 1 : 0;
 
                 if(d+w < dist[v]) {
                     dist[v] = d+w;
