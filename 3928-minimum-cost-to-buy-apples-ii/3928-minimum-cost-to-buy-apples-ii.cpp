@@ -35,7 +35,7 @@ public:
             int u = roads[i][0];
             int v = roads[i][1];
             ll w1 = roads[i][2];
-            ll w2 = roads[i][2]*roads[i][3];
+            ll w2 = 1LL*roads[i][2]*roads[i][3];
 
             adj1[u].push_back({v,w1});
             adj1[v].push_back({u,w1});
