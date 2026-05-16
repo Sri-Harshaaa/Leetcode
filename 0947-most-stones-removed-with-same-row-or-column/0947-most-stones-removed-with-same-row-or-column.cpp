@@ -23,19 +23,19 @@ public:
     int removeStones(vector<vector<int>>& stones) {
         int n = stones.size();
         vector<int> rank(n,0), parent(n);
+        unordered_map<int,int> col,row;
 
         for(int i=0; i<n; i++) parent[i] = i;
 
         for(int i=0; i<stones.size(); i++) {
             int a = stones[i][0];
             int b = stones[i][1];
-            for(int j=0; j<n; j++) {
-                if(j==i) continue;
-                int x = stones[j][0];
-                int y = stones[j][1];
+            
+            if(row.contains(a)) Union(row[a],i,rank,parent);
+            if(col.contains(b)) Union(col[b],i,rank,parent);
 
-                if(a==x || b==y) Union(i,j,rank,parent);
-            }
+            row[a] = i;
+            col[b] = i;
         }
 
         set<int> st;
