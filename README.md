@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0841-keys-and-rooms) |
+| [0886-possible-bipartition](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0841-keys-and-rooms) |
+| [0886-possible-bipartition](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0886-possible-bipartition) |
 | [0994-rotting-oranges](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0841-keys-and-rooms) |
+| [0886-possible-bipartition](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2097-valid-arrangement-of-pairs](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2097-valid-arrangement-of-pairs) |
@@ -434,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1627-graph-connectivity-with-threshold](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1627-graph-connectivity-with-threshold) |
