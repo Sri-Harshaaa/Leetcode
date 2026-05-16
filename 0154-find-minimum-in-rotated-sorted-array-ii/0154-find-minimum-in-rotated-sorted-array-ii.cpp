@@ -8,13 +8,11 @@ public:
         while (low <= high) {
             int mid = low + (high - low) / 2;
 
-            // Check if current range is sorted
             if (nums[low] < nums[high]) {
                 ans = min(ans, nums[low]);
                 break;
             }
 
-            // Found a better candidate
             ans = min(ans, nums[mid]);
 
             if (nums[mid] > nums[high]) {
