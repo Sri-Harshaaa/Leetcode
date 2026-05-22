@@ -7,7 +7,7 @@ public:
             mid = low + (high-low)/2;
             if(nums[mid]==target) return mid;
             //this one works when low and high step into the sorted half
-            if(nums[low]<=nums[high]) {
+            if(nums[low]<=nums[high]) { //because if single element
                 if(nums[mid]>target) high = mid-1;
                 else low = mid+1;
             }
