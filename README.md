@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1345-jump-game-iv](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1345-jump-game-iv) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2097-valid-arrangement-of-pairs](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2097-valid-arrangement-of-pairs) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1345-jump-game-iv](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1345-jump-game-iv) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1765-map-of-highest-peak](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1765-map-of-highest-peak) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
 |  |
