@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1345-jump-game-iv) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2540-minimum-common-value](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2540-minimum-common-value) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Backtracking
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2097-valid-arrangement-of-pairs](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2097-valid-arrangement-of-pairs) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1345-jump-game-iv](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1345-jump-game-iv) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1765-map-of-highest-peak](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1765-map-of-highest-peak) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -440,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
 |  |
