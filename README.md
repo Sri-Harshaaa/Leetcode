@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2097-valid-arrangement-of-pairs](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2097-valid-arrangement-of-pairs) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2359-find-closest-node-to-given-two-nodes](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2360-longest-cycle-in-a-graph) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3493-properties-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3493-properties-graph) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2097-valid-arrangement-of-pairs](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2097-valid-arrangement-of-pairs) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2246-longest-path-with-different-adjacent-characters) |
+| [2359-find-closest-node-to-given-two-nodes](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2360-longest-cycle-in-a-graph) |
 | [2421-number-of-good-paths](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2421-number-of-good-paths) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
