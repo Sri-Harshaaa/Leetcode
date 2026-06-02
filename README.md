@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0839-similar-string-groups](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0839-similar-string-groups) |
 | [0840-magic-squares-in-grid](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0529-minesweeper](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0529-minesweeper) |
 | [0778-swim-in-rising-water](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0792-binary-search](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0792-binary-search) |
+| [0839-similar-string-groups](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0839-similar-string-groups) |
 | [0840-magic-squares-in-grid](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0940-fruit-into-baskets](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0839-similar-string-groups](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0839-similar-string-groups) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0839-similar-string-groups](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0839-similar-string-groups) |
 | [0841-keys-and-rooms](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -406,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0839-similar-string-groups](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0839-similar-string-groups) |
 | [0841-keys-and-rooms](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0886-possible-bipartition) |
 | [0994-rotting-oranges](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0994-rotting-oranges) |
@@ -510,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [0839-similar-string-groups](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0839-similar-string-groups) |
 | [0886-possible-bipartition](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1020-number-of-enclaves) |
