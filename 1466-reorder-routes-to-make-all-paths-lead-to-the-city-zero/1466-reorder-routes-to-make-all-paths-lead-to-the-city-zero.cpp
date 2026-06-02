@@ -1,34 +1,34 @@
 class Solution {
 public:
-    void dfs(int u, int& count, set<pair<int,int>>& st, vector<bool>& visited, vector<vector<int>>& adj) {
+    void dfs(int u, int& count, vector<bool>& visited, vector<vector<pair<int,int>>>& adj) {
         visited[u] = true;
 
-        for(int& v : adj[u]) {
+        for(auto& neighbr : adj[u]) {
+            int v = neighbr.first;
+            int w = neighbr.second;
+
             if(!visited[v]) {
-                if(!st.count({v,u})) count++;
-                dfs(v,count,st,visited,adj);
+                if(w == 1) count++;
+                dfs(v,count,visited,adj);
             }
         }
     }
 
     int minReorder(int n, vector<vector<int>>& connections) {
-        vector<vector<int>> adj(n);
-        set<pair<int,int>> st;
+        vector<vector<pair<int,int>>> adj(n);
 
         for(int i=0; i<connections.size(); i++) {
             int u = connections[i][0];
             int v = connections[i][1];
 
-            st.insert({u,v});
-            
-            adj[u].push_back(v);
-            adj[v].push_back(u);
+            adj[u].push_back({v,1});
+            adj[v].push_back({u,0});
         }
         
         int count = 0;
         vector<bool> visited(n,false);
 
-        dfs(0,count,st,visited,adj);
+        dfs(0,count,visited,adj);
 
         return count;
     }
