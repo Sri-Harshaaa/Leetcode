@@ -1,15 +1,13 @@
 class Solution {
 public:
-    void dfs(int u, int& count, vector<bool>& visited, vector<vector<pair<int,int>>>& adj) {
-        visited[u] = true;
-
+    void dfs(int u, int& count, int parent, vector<vector<pair<int,int>>>& adj) {
         for(auto& neighbr : adj[u]) {
             int v = neighbr.first;
             int w = neighbr.second;
 
-            if(!visited[v]) {
+            if(v != parent) {
                 if(w == 1) count++;
-                dfs(v,count,visited,adj);
+                dfs(v,count,u,adj);
             }
         }
     }
@@ -26,9 +24,8 @@ public:
         }
         
         int count = 0;
-        vector<bool> visited(n,false);
-
-        dfs(0,count,visited,adj);
+  
+        dfs(0,count,-1,adj);
 
         return count;
     }
