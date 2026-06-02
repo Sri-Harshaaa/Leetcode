@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2421-number-of-good-paths](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2421-number-of-good-paths) |
 | [2540-minimum-common-value](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2689-rearranging-fruits](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2689-rearranging-fruits) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2421-number-of-good-paths](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2421-number-of-good-paths) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2529-range-product-queries-of-powers](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2529-range-product-queries-of-powers) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2126-destroying-asteroids](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2421-number-of-good-paths](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2421-number-of-good-paths) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2784-check-if-array-is-good](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2784-check-if-array-is-good) |
@@ -456,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2246-longest-path-with-different-adjacent-characters) |
+| [2421-number-of-good-paths](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2421-number-of-good-paths) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
 |  |
@@ -474,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2097-valid-arrangement-of-pairs](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2097-valid-arrangement-of-pairs) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2360-longest-cycle-in-a-graph) |
+| [2421-number-of-good-paths](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2421-number-of-good-paths) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3493-properties-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3493-properties-graph) |
@@ -493,5 +498,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1627-graph-connectivity-with-threshold](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1627-graph-connectivity-with-threshold) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2421-number-of-good-paths](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2421-number-of-good-paths) |
 | [3493-properties-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3493-properties-graph) |
 <!---LeetCode Topics End-->
