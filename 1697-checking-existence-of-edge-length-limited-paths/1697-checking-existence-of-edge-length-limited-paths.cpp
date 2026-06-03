@@ -21,7 +21,12 @@ public:
     }
 
     vector<bool> distanceLimitedPathsExist(int n, vector<vector<int>>& edgeList, vector<vector<int>>& queries) {
-        vector<vector<int>> que = queries;
+        int e = edgeList.size();
+        int q = queries.size();
+
+        for(int i=0; i<q; i++) {
+            queries[i].push_back(i);
+        }
 
         sort(edgeList.begin(), edgeList.end(), [](auto& a, auto& b) {
             return a[2] < b[2];
@@ -30,11 +35,9 @@ public:
             return a[2] < b[2];
         });
 
-        int e = edgeList.size();
-        int q = queries.size();
+        
         vector<int> parent(n), rank(n,0);
         vector<bool> ans(q);
-        map<vector<int>,bool> mpp;
 
         for(int i=0; i<n; i++) {
             parent[i] = i;
@@ -46,6 +49,7 @@ public:
             int src = queries[j][0];
             int dst = queries[j][1];
             int limit = queries[j][2];
+            int oi = queries[j][3];
 
             while(i < e) {
                 int u = edgeList[i][0];
@@ -61,14 +65,10 @@ public:
             int src_leader = find(src,parent);
             int dst_leader = find(dst,parent);
 
-            if(src_leader == dst_leader) mpp[queries[j]] = true;
-            else mpp[queries[j]] = false;
+            if(src_leader == dst_leader) ans[oi] = true;
+            else ans[oi] = false;
 
             j++;
-        }
-
-        for(int i=0; i<que.size(); i++) {
-            ans[i] = mpp[que[i]];
         }
 
         return ans;
