@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2540-minimum-common-value](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1627-graph-connectivity-with-threshold](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1627-graph-connectivity-with-threshold) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1765-map-of-highest-peak](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1765-map-of-highest-peak) |
 | [1929-concatenation-of-array](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1200-minimum-absolute-difference](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2126-destroying-asteroids](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -500,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2097-valid-arrangement-of-pairs](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2097-valid-arrangement-of-pairs) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2246-longest-path-with-different-adjacent-characters) |
@@ -526,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1627-graph-connectivity-with-threshold](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1627-graph-connectivity-with-threshold) |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2421-number-of-good-paths](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2421-number-of-good-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
