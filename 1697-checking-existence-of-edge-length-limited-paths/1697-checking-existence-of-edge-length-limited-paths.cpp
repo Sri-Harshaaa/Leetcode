@@ -12,7 +12,7 @@ public:
 
         if(x_leader == y_leader) return;
 
-        if(rank[y_leader] < rank[x_leader]) parent[x_leader] = y_leader;
+        if(rank[y_leader] < rank[x_leader]) parent[y_leader] = x_leader;
         else if(rank[x_leader] < rank[y_leader]) parent[x_leader] = y_leader;
         else {
             parent[x_leader] = y_leader;
