@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1390-four-divisors) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1514-path-with-maximum-probability](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1627-graph-connectivity-with-threshold](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1627-graph-connectivity-with-threshold) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1514-path-with-maximum-probability](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1514-path-with-maximum-probability](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Tree
@@ -516,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1514-path-with-maximum-probability](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
