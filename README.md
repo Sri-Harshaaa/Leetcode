@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2540-minimum-common-value](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2689-rearranging-fruits](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2784-check-if-array-is-good](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2784-check-if-array-is-good) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2529-range-product-queries-of-powers](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2529-range-product-queries-of-powers) |
+| [2574-left-and-right-sum-differences](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3639-zero-array-transformation-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Binary Search
