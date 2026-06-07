@@ -12,22 +12,9 @@
 class Solution {
 public:
     TreeNode* createBinaryTree(vector<vector<int>>& descriptions) {
-        unordered_map<int,bool> mpp;
-        int root = -1;
-        for(int i=0; i<descriptions.size(); i++) {
-            int u = descriptions[i][0];
-            mpp[u] = false;
-        }
-        for(int i=0; i<descriptions.size(); i++) {
-            int v = descriptions[i][1];
-            if(mpp.count(v)) mpp[v] = true;
-        }
-        for(auto& it : mpp) {
-            if(!it.second) {
-                root = it.first;
-                break;
-            }
-        }
+        int n = 1e5+1;
+        vector<int> parent(n,-1);
+        unordered_set<int> st;
 
         unordered_map<int,TreeNode*> mp;
 
@@ -35,6 +22,11 @@ public:
             int u = descriptions[i][0];
             int v = descriptions[i][1];
             int w = descriptions[i][2];
+
+            st.insert(u);
+            st.insert(v);
+
+            parent[v] = u;
 
             if(!mp.count(u)) {
                 TreeNode* par = new TreeNode(u);
@@ -50,6 +42,15 @@ public:
 
             if(w) par->left = child;
             else par->right = child;
+        }
+
+        int root = -1;
+
+        for(auto& v : st) {
+            if(parent[v] == -1) {
+                root = v;
+                break;
+            }
         }
 
         return mp[root];
