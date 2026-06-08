@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2540-minimum-common-value](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2101-detonate-the-maximum-bombs](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2126-destroying-asteroids](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1642-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3379-transformed-array](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3379-transformed-array) |
