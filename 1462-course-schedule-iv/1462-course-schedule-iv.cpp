@@ -1,14 +1,11 @@
 class Solution {
 public:
-    bool dfs(int src, int target, vector<bool>& visited, vector<vector<int>>& adj) {
-        visited[src] = true;
-        if(src == target) return true;
+    void dfs(int u, vector<bool>& visited, vector<vector<int>>& adj) {
+        visited[u] = true;
 
-        for(int& v : adj[src]) {
-            if(!visited[v] && dfs(v,target,visited,adj)) return true;
+        for(int& v : adj[u]) {
+            if(!visited[v]) dfs(v,visited,adj);
         }
-
-        return false;
     }
 
     vector<bool> checkIfPrerequisite(int numCourses, vector<vector<int>>& prerequisites, vector<vector<int>>& queries) {
@@ -20,6 +17,15 @@ public:
             adj[u].push_back(v);
         }
 
+        vector<vector<bool>> reachable;
+
+        for(int i=0; i<numCourses; i++) {
+            vector<bool> visited(numCourses,false);
+            dfs(i,visited,adj);
+
+            reachable.push_back(visited);
+        }
+
         vector<bool> ans(queries.size());
 
         for(int i=0; i<queries.size(); i++) {
@@ -27,7 +33,7 @@ public:
             int dst = queries[i][1];
             vector<bool> visited(numCourses,false);
 
-            if(dfs(src,dst,visited,adj)) ans[i] = true;
+            if(reachable[src][dst]) ans[i] = true;
             else ans[i] = false;
         }
 
