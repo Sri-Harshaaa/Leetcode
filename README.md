@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0498-diagonal-traverse](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0529-minesweeper](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0529-minesweeper) |
+| [0630-course-schedule-iii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0630-course-schedule-iii) |
 | [0778-swim-in-rising-water](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0792-binary-search](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0792-binary-search) |
 | [0839-similar-string-groups](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0839-similar-string-groups) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0630-course-schedule-iii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0630-course-schedule-iii) |
 | [1448-maximum-69-number](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1448-maximum-69-number) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1975-maximum-matrix-sum](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1975-maximum-matrix-sum) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0630-course-schedule-iii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0630-course-schedule-iii) |
 | [0900-reordered-power-of-2](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1200-minimum-absolute-difference](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -485,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0630-course-schedule-iii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0630-course-schedule-iii) |
 | [0743-network-delay-time](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
