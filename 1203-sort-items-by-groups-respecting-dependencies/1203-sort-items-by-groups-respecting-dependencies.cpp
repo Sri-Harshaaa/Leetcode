@@ -43,7 +43,6 @@ public:
         }
 
         vector<vector<int>> items(n), groups(g);
-        set<pair<int,int>> st;
 
         for(int i=0; i<beforeItems.size(); i++) {
             int ug = group[i];
@@ -51,10 +50,7 @@ public:
                 int v = beforeItems[i][j];
                 int vg = group[v];
                 items[v].push_back(i);
-                if(ug != vg && !st.count({vg,ug})) {
-                    st.insert({vg,ug});
-                    groups[vg].push_back(ug);
-                }
+                if(ug != vg) groups[vg].push_back(ug);
             }
         }
 
