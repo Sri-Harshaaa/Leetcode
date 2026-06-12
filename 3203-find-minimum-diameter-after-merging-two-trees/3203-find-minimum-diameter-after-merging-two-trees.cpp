@@ -1,36 +1,21 @@
 class Solution {
 public:
-    pair<int,int> bfs(int u, vector<vector<int>>& adj) {
-        int V = adj.size();
-        queue<int> q;
-        vector<bool> visited(V, false);
-        int d = 0, x = -1;
-        q.push(u);
-        visited[u] = true;
+    int diameter(int u, int parent, int& d, vector<vector<int>>& adj) {
+        int m1 = 0, m2 = 0;
 
-        while(!q.empty()) {
-            int n = q.size();
-            while(n--) {
-                int node = q.front();
-                x = node;
-                q.pop();
-                for(int& v : adj[node]) {
-                    if(!visited[v]) {
-                        q.push(v);
-                        visited[v] = true;
-                    }
-                }
+        for(int& v : adj[u]) {
+            if(v == parent) continue;
+
+            int sol = diameter(v,u,d,adj);
+            if(sol > m1) {
+                m2 = m1;
+                m1 = sol;
             }
-            d++;
+            else if(sol > m2) m2 = sol;
         }
-        return {x,d};
-    }
+        d = max(d, m1+m2);
 
-    int diameter(vector<vector<int>>& adj) {
-        int u = 0;
-        int a = bfs(u,adj).first;
-        int d = bfs(a,adj).second;
-        return d;
+        return m1+1;
     }
 
     int minimumDiameterAfterMerge(vector<vector<int>>& edges1, vector<vector<int>>& edges2) {
@@ -48,8 +33,10 @@ public:
             adj2[u].push_back(v);
             adj2[v].push_back(u);
         }
-        int d1 = diameter(adj1)-1;
-        int d2 = diameter(adj2)-1;
+
+        int d1 = 0, d2 = 0;
+        diameter(0,-1,d1,adj1);
+        diameter(0,-1,d2,adj2);
         
         return max({d1,d2,(d1+1)/2+(d2+1)/2 +1 });
     }
