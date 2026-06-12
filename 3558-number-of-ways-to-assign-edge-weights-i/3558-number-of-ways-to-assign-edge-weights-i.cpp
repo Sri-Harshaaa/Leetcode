@@ -14,13 +14,19 @@ public:
         return dep;
     }
 
-    int power(int a, int b) {
-        if(b == 0) return 1;
+    int power(long long a, long long b) {
+        int res = 1;
 
-        int half = power(a,b/2);
-        int res = ((half%MOD)*(half%MOD))%MOD;
-        if(b%2) return ((a%MOD)*(res%MOD))%MOD;
-        else return res;
+        while(b > 0) {
+            if(b&1) {
+                res = ((res%MOD)*(a%MOD))%MOD;
+            }
+
+            a = ((a%MOD)*(a%MOD))%MOD;
+            b>>=1;
+        }
+
+        return res;
     }
 
     int assignEdgeWeights(vector<vector<int>>& edges) {
