@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3800-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3800-longest-common-prefix-between-adjacent-strings-after-removals) |
+| [3838-weighted-word-mapping](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Simulation
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3651-transformed-array](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3651-transformed-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3838-weighted-word-mapping](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3893-generate-tag-for-video-caption](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3893-generate-tag-for-video-caption) |
 ## Prefix Sum
 |  |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3617-find-the-original-typed-string-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3800-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3800-longest-common-prefix-between-adjacent-strings-after-removals) |
+| [3838-weighted-word-mapping](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3893-generate-tag-for-video-caption](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3893-generate-tag-for-video-caption) |
 ## Greedy
 |  |
