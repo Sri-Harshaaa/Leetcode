@@ -4,9 +4,9 @@ public:
         int n = s.size();
         int i = 0, j = 0;
         int ans = 0;
-        unordered_map<char,int> mpp;
+        vector<int> mpp(256,-1);
         while(j<n) {
-            if(!mpp.count(s[j])) {
+            if(mpp[s[j]] == -1) {
                 ans = max(ans,j-i+1);
                 mpp[s[j]] = j;
                 j++;
@@ -14,7 +14,7 @@ public:
             else {
                 int m = mpp[s[j]];
                 while(i<=m) {
-                    mpp.erase(s[i]);
+                    mpp[s[i]] = -1;
                     i++;
                 }
             }
