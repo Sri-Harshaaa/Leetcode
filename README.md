@@ -427,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0079-word-search) |
+| [0112-path-sum](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0210-course-schedule-ii) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0210-course-schedule-ii) |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0112-path-sum) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -563,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0112-path-sum) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
