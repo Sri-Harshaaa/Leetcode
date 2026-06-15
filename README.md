@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0507-perfect-number) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2529-range-product-queries-of-powers](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
