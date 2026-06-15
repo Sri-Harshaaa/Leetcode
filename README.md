@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1627-graph-connectivity-with-threshold](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1627-graph-connectivity-with-threshold) |
 | [1642-water-bottles](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1642-water-bottles) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2101-detonate-the-maximum-bombs) |
+| [2235-add-two-integers](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2235-add-two-integers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
