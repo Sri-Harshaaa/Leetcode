@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0839-similar-string-groups](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0839-similar-string-groups) |
 | [0840-magic-squares-in-grid](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0900-reordered-power-of-2) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0399-evaluate-division](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0399-evaluate-division) |
+| [0424-longest-repeating-character-replacement](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0839-similar-string-groups](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0839-similar-string-groups) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1061-lexicographically-smallest-equivalent-string) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
