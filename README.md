@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0133-clone-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
