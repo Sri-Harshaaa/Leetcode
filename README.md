@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1627-graph-connectivity-with-threshold](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1627-graph-connectivity-with-threshold) |
+| [1631-path-with-minimum-effort](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0792-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2540-minimum-common-value](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1765-map-of-highest-peak) |
 | [1975-maximum-matrix-sum](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1462-course-schedule-iv](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1462-course-schedule-iv) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [1631-path-with-minimum-effort](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2097-valid-arrangement-of-pairs](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2097-valid-arrangement-of-pairs) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2101-detonate-the-maximum-bombs) |
@@ -496,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1462-course-schedule-iv](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1462-course-schedule-iv) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [1631-path-with-minimum-effort](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1765-map-of-highest-peak) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2101-detonate-the-maximum-bombs) |
@@ -539,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1514-path-with-maximum-probability) |
+| [1631-path-with-minimum-effort](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
@@ -622,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1627-graph-connectivity-with-threshold](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1627-graph-connectivity-with-threshold) |
+| [1631-path-with-minimum-effort](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2421-number-of-good-paths](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2421-number-of-good-paths) |
