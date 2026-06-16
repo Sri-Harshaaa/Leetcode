@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-clear-digits](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3174-clear-digits) |
 | [3379-transformed-array](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3379-transformed-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3612-process-string-with-special-operations-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3651-transformed-array](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3651-transformed-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3838-weighted-word-mapping](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3838-weighted-word-mapping) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-clear-digits](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3174-clear-digits) |
 | [3396-valid-word](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3396-valid-word) |
 | [3606-coupon-code-validator](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3606-coupon-code-validator) |
+| [3612-process-string-with-special-operations-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3800-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3800-longest-common-prefix-between-adjacent-strings-after-removals) |
 | [3838-weighted-word-mapping](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3838-weighted-word-mapping) |
