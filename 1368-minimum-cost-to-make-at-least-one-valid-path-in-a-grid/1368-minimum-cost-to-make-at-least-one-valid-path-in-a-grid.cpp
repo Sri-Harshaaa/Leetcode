@@ -32,14 +32,10 @@ public:
 
                     if(dist[x][y]+w >= dist[u][v]) continue;
 
-                    if(w==0) {
-                        dist[u][v] = dist[x][y];
-                        dq.push_front({u,v});
-                    }
-                    else {
-                        dist[u][v] = dist[x][y]+1;
-                        dq.push_back({u,v});
-                    }
+                    dist[u][v] = dist[x][y]+w;
+
+                    if(w==0) dq.push_front({u,v});
+                    else dq.push_back({u,v});
                 }
             }
         }
