@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3379-transformed-array](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3379-transformed-array) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1765-map-of-highest-peak](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1765-map-of-highest-peak) |
 | [1975-maximum-matrix-sum](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Depth-First Search
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2360-longest-cycle-in-a-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3493-properties-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3493-properties-graph) |
 ## Union Find
 |  |
@@ -550,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
@@ -560,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Tree
 |  |
@@ -614,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3493-properties-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3493-properties-graph) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Eulerian Circuit
