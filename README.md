@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1642-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2211-count-collisions-on-a-road](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3174-clear-digits](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3174-clear-digits) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2211-count-collisions-on-a-road](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [3174-clear-digits](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3174-clear-digits) |
 ## Dynamic Programming
 |  |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [2211-count-collisions-on-a-road](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
