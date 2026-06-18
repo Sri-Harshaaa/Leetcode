@@ -12,31 +12,31 @@ public:
         }
 
         vector<int> time1(n+1,INT_MAX), time2(n+1,INT_MAX);
-        priority_queue<pair<int,int>, vector<pair<int,int>>, greater<pair<int,int>>> pq;
+        queue<pair<int,int>> q;
         time1[1] = 0;
-        pq.push({0,1});
+        q.push({0,1});
 
-        while(!pq.empty()) {
-            pair<int,int> p = pq.top();
-            pq.pop();
+        while(!q.empty()) {
+            pair<int,int> p = q.front();
+            q.pop();
             int t = p.first;
             int u = p.second;
             int s = ((t/change)%2) ? 1 : 0;
             int wait = (s==1) ? (change-(t%change)) : 0;
+            int nt = t+wait+time;
 
             if(t > time1[u] && t < time2[u]) time2[u] = t;
               
 
             for(int& v : adj[u]) {
-                int nt = t+wait+time;
                 if(nt < time1[v]) {
                     time2[v] = time1[v];
-                    time1[v] = t+wait+time;
-                    pq.push({time1[v],v});
+                    time1[v] = nt;
+                    q.push({time1[v],v});
                 }
                 else if(nt > time1[v] && nt < time2[v]) {
                     time2[v] = nt;
-                    pq.push({nt,v});
+                    q.push({nt,v});
                 }
             }
         }
