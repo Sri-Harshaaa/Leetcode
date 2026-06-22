@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1189-maximum-number-of-balloons](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1345-jump-game-iv) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-similar-string-groups](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0839-similar-string-groups) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1061-lexicographically-smallest-equivalent-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2211-count-collisions-on-a-road](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [1189-maximum-number-of-balloons](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
