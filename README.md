@@ -477,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0529-minesweeper](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0529-minesweeper) |
 | [0547-number-of-provinces](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0685-redundant-connection-ii) |
 | [0733-flood-fill](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0778-swim-in-rising-water) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0529-minesweeper](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0529-minesweeper) |
 | [0547-number-of-provinces](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0685-redundant-connection-ii) |
 | [0733-flood-fill](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0778-swim-in-rising-water) |
@@ -643,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0133-clone-graph) |
 | [0399-evaluate-division](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0685-redundant-connection-ii) |
 | [0785-is-graph-bipartite](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0802-find-eventual-safe-states) |
@@ -687,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0685-redundant-connection-ii) |
 | [0778-swim-in-rising-water](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0839-similar-string-groups](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0839-similar-string-groups) |
