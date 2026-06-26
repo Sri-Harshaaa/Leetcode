@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0399-evaluate-division) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0529-minesweeper](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0529-minesweeper) |
 | [0778-swim-in-rising-water](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0778-swim-in-rising-water) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0079-word-search) |
 | [0112-path-sum](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0399-evaluate-division) |
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0399-evaluate-division) |
@@ -673,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0399-evaluate-division) |
 | [0778-swim-in-rising-water](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0785-is-graph-bipartite) |
