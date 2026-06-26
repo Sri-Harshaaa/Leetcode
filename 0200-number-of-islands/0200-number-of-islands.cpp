@@ -8,15 +8,25 @@ public:
         return x>=0 && x<m && y>=0 && y<n;
     }
 
-    void dfs(int x, int y, vector<vector<bool>>& visited, vector<vector<char>>& grid) {
+    void bfs(int x, int y, vector<vector<bool>>& visited, vector<vector<char>>& grid) {
+        queue<pair<int,int>> q;
         visited[x][y] = true;
+        q.push({x,y});
 
-        for(int i=0; i<4; i++) {
-            int u = x + dx[i];
-            int v = y + dy[i];
+        while(!q.empty()) {
+            auto p = q.front();
+            q.pop();
+            int x1 = p.first;
+            int y1 = p.second;
+
+            for(int i=0; i<4; i++) {
+            int u = x1 + dx[i];
+            int v = y1 + dy[i];
 
             if(isValid(u,v,m,n) && grid[u][v] != '0' && !visited[u][v]) {
-                dfs(u,v,visited,grid);
+                    visited[u][v] = true;
+                    q.push({u,v});
+                }
             }
         }
     }
@@ -29,7 +39,7 @@ public:
         for(int i=0; i<m; i++) {
             for(int j=0; j<n; j++) {
                 if(grid[i][j] == '1' && !visited[i][j]) {
-                    dfs(i,j,visited,grid);
+                    bfs(i,j,visited,grid);
                     cnt++;
                 }
             }
