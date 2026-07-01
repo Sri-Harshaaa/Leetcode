@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2706-buy-two-chocolates](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2784-check-if-array-is-good](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2784-check-if-array-is-good) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2540-minimum-common-value](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2540-minimum-common-value) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3643-zero-array-transformation-ii) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1765-map-of-highest-peak](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1765-map-of-highest-peak) |
 | [1975-maximum-matrix-sum](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
@@ -570,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3493-properties-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3493-properties-graph) |
@@ -611,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
@@ -721,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2421-number-of-good-paths](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2421-number-of-good-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3493-properties-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3493-properties-graph) |
 ## Geometry
 |  |
