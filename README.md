@@ -619,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -637,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2045-second-minimum-time-to-reach-destination) |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -694,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2045-second-minimum-time-to-reach-destination](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [2097-valid-arrangement-of-pairs](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2097-valid-arrangement-of-pairs) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2101-detonate-the-maximum-bombs) |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2359-find-closest-node-to-given-two-nodes) |
