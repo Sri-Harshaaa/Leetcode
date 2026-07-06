@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1200-minimum-absolute-difference](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1288-remove-covered-intervals](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1306-jump-game-iii) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0630-course-schedule-iii) |
 | [0900-reordered-power-of-2](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1200-minimum-absolute-difference](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1288-remove-covered-intervals](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
