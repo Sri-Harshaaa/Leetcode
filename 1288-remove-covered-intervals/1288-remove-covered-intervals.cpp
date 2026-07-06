@@ -5,10 +5,7 @@ public:
         sort(intervals.begin(),intervals.end(),[](vector<int>& a, vector<int>& b) {
             return abs(a[0]-a[1]) > abs(b[0]-b[1]);
         });
-        for(int i=0; i<n; i++) {
-            cout<<intervals[i][0] << " "<<intervals[i][1];
-            cout<<endl;
-        }
+
         vector<bool> visited(n, false);
         int cnt = 0;
         for(int i=0; i<n; i++) {
