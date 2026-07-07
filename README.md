@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Linked List
