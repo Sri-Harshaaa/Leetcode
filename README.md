@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3493-properties-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3493-properties-graph) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3606-coupon-code-validator](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3493-properties-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3493-properties-graph) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3606-coupon-code-validator](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3620-network-recovery-pathways](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3620-network-recovery-pathways) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2540-minimum-common-value](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -725,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3493-properties-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3493-properties-graph) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Eulerian Circuit
@@ -756,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sri-Harshaaa/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3493-properties-graph](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3493-properties-graph) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Sri-Harshaaa/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Geometry
 |  |
 | ------- |
