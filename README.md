@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0507-perfect-number) |
 | [0840-magic-squares-in-grid](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0840-magic-squares-in-grid) |
+| [0877-stone-game](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0877-stone-game) |
 | [0900-reordered-power-of-2](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1013-fibonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0792-binary-search) |
 | [0839-similar-string-groups](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0839-similar-string-groups) |
 | [0840-magic-squares-in-grid](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0840-magic-squares-in-grid) |
+| [0877-stone-game](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0877-stone-game) |
 | [0940-fruit-into-baskets](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0118-pascals-triangle) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0877-stone-game](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1013-fibonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sri-Harshaaa/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -807,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/Sri-Harshaaa/Leetcode/tree/master/0877-stone-game) |
 ## Counting Sort
 |  |
 | ------- |
